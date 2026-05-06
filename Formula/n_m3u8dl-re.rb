@@ -1,8 +1,8 @@
 class NM3u8dlRe < Formula
   desc "Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM"
   homepage "https://github.com/nilaoda/N_m3u8DL-RE"
-  url "https://github.com/nilaoda/N_m3u8DL-RE/archive/refs/tags/v0.3.0-beta.tar.gz"
-  sha256 "6cbad6b6fda2733099cabb3cc1f89884984bdfb644416f14713d9bcdd0e55676"
+  url "https://github.com/nilaoda/N_m3u8DL-RE/archive/refs/tags/v0.5.1-beta.tar.gz"
+  sha256 "55559fec4deef7e40a4d45eebb699865f01d04f7e72110ce5d11b4ca3e655a93"
   license "MIT"
 
   depends_on "dotnet" => :build
